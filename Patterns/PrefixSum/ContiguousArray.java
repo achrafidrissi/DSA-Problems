@@ -1,5 +1,9 @@
 package Patterns.PrefixSum;
 
+// =====================================================
+// 525. Contiguous Array
+// =====================================================
+
 import java.util.HashMap;
 import java.util.Map;
 
