@@ -4,7 +4,6 @@ package Patterns.SlidingWindow;
 // 3. Longest Substring Without Repeating Characters
 // =====================================================
 
-import java.util.HashMap;
 import java.util.HashSet;
 
 public class LongestUniqueSubstring {
