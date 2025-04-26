@@ -1,4 +1,4 @@
-package Patterns.PrefixSum;
+package PrefixSum;
 
 // =====================================================
 // 525. Contiguous Array

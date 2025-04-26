@@ -1,4 +1,4 @@
-package Patterns.TwoPointers;
+package TwoPointers;
 
 // =====================================================
 // 15. 3Sum

@@ -1,4 +1,4 @@
-package Patterns.TwoPointers;
+package TwoPointers;
 
 // =====================================================
 // 167. Two Sum II - Input Array Is Sorted

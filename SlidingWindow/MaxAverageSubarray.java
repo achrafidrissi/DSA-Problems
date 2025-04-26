@@ -1,4 +1,4 @@
-package Patterns.SlidingWindow;
+package SlidingWindow;
 
 // =====================================================
 // 643. Maximum Average Subarray I

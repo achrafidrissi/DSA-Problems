@@ -1,4 +1,4 @@
-package Patterns.SlidingWindow;
+package SlidingWindow;
 
 // =====================================================
 // 3. Longest Substring Without Repeating Characters

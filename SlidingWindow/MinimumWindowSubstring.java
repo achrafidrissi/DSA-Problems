@@ -1,4 +1,4 @@
-package Patterns.SlidingWindow;
+package SlidingWindow;
 
 // =====================================================
 // 560. Subarray Sum Equals K

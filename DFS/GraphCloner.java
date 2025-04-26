@@ -1,4 +1,4 @@
-package Patterns.DFS;
+package DFS;
 
 // =====================================================
 // 133. Clone Graph

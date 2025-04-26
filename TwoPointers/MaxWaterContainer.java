@@ -1,4 +1,4 @@
-package Patterns.TwoPointers;
+package TwoPointers;
 
 // =====================================================
 // 11. Container With Most Water

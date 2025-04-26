@@ -1,4 +1,4 @@
-package Patterns.DFS;
+package DFS;
 
 // =====================================================
 // 210. Course Schedule II

@@ -1,10 +1,10 @@
-package Patterns.BFS;
+package BFS;
 
 // =====================================================
 // 102. Binary Tree Level Order Traversal
 // =====================================================
 
-import Patterns.DFS.TreeNode;
+import DFS.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

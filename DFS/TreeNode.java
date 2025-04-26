@@ -1,4 +1,4 @@
-package Patterns.DFS;
+package DFS;
 
 public class TreeNode {
     public int val;

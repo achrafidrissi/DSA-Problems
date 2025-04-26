@@ -1,4 +1,4 @@
-package Patterns.PrefixSum;
+package PrefixSum;
 // =====================================================
 // 303. Range Sum Query - Immutable
 // =====================================================

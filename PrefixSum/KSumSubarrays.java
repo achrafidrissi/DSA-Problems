@@ -1,4 +1,4 @@
-package Patterns.PrefixSum;
+package PrefixSum;
 
 // =====================================================
 // 560. Subarray Sum Equals K

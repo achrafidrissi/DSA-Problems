@@ -1,4 +1,4 @@
-package Patterns.DFS;
+package DFS;
 
 import java.util.ArrayList;
 import java.util.List;
