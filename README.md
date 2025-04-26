@@ -1,4 +1,6 @@
 # DSA-Problems
+![Language](https://img.shields.io/badge/language-Java-orange)
+![Status](https://img.shields.io/badge/status-learning-brightgreen)
 
 This repository contains my solutions to various **Data Structures and Algorithms (DSA)** problems, organized by common **problem-solving patterns**.
 
