@@ -4,7 +4,7 @@ package DailyChallenge;
 // 790. Domino and Tromino Tiling
 // =====================================================
 
-public class DominoTrominoTiling {
+public class DominoTrominoTiling_1 {
     public int numTillings(int n){
         //The pattern used in that problem is Dynmamic Programming
         //Hint : Counting the number of ways

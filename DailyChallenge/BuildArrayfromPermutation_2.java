@@ -4,7 +4,7 @@ package DailyChallenge;
 // 1920. Build Array from Permutation
 // =====================================================
 
-public class BuildArrayfromPermutation {
+public class BuildArrayfromPermutation_2 {
 
     public int[] buildArray(int[] nums){
         int size = nums.length;
