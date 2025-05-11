@@ -4,7 +4,7 @@ package DailyChallenge;
 // 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
 // =====================================================
 
-public class MinimumEqualSumof2Arrays {
+public class MinimumEqualSumof2Arrays_5 {
 
     public long minSum(int[] nums1, int[] nums2) {
 
