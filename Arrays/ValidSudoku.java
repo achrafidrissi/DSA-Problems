@@ -1,9 +1,10 @@
 package Arrays;
 
-import java.util.Arrays;
-import java.util.HashMap;
+// =====================================================
+// 36. Valid Sudoku
+// =====================================================
+
 import java.util.HashSet;
-import java.util.Map;
 
 public class ValidSudoku {
 
